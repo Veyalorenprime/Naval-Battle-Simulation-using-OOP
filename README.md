@@ -29,4 +29,23 @@ This is a Python-based naval battle simulation project that allows users to crea
 1. Clone the repository:
 git clone https://github.com/Veyalorenprime/TP-3-4.git
 
+2. Change to the project directory:
+```bash
+cd TP-3-4
+
+3. Install the required dependencies:
+```bash
+pip install -r requirements.txt
+
+## Usage
+
+To run the game, execute the following command:
+```bash
+python main.py
+
+This will launch the game and allow you to interact with the simulation through the command-line interface or the pygame-based graphical user interface.
+
+
+
+
 
