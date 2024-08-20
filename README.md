@@ -27,3 +27,6 @@ This is a Python-based naval battle simulation project that allows users to crea
 ## Installation
 
 1. Clone the repository:
+git clone https://github.com/Veyalorenprime/TP-3-4.git
+
+
